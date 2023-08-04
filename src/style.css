@@ -71,7 +71,7 @@ button:hover {
 }
 button:focus,
 button:focus-visible {
-  outline: none;
+  outline: none
 }
 
 input, select {
